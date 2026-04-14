@@ -1,2 +1,4 @@
 # Python Programming learning by Codanics
 # topic 1: Introduction to Python Programming
+## What is Python Programming?
+Python is a high-level, interpreted programming language known for its simplicity and readability. It was created by Guido van Rossum and first released in 1991. Python is widely used for web development, data analysis, artificial intelligence, scientific computing, and more. It has a large standard library and a vibrant community that contributes to its extensive ecosystem of third-party packages and frameworks. Python's syntax emphasizes code readability, making it an excellent choice for beginners and experienced programmers alike.
